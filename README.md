@@ -1,2 +1,1 @@
-# Python-Projects
-Tracking my evolution from basic scripting to advanced Python development. This repo showcases projects using Turtle Graphics, logic-based game engines, and persistent data storage.
+🛠️ Python Portfolio demonstrating: • Object-Oriented Programming (OOP) & modular class structures. • Persistent data storage using File I/O. • Interactive UI & Game Physics (Turtle Graphics). • Clean Code principles & professional documentation.
